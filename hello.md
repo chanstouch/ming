@@ -16,3 +16,8 @@
 - checkout: 특정 branch(혹은 commit)으로 돌아가고 싶을 때 사용.
 - sourceTree의 checkout: 브랜치 이름을 더블클릭하는 것만으로 체크아웃 가능
 
+## 병합merge하기 1
+
+- 헤드 브랜치에 변경사항이 없고
+- 병합 대상 브랜치가 헤드로부터 시작된 경우
+- 아주 쉽게 병합 가능 = Fast-forward
